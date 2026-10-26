@@ -1,0 +1,25 @@
+*   [33mcommit aa1e41c9ff1e6bfdf681e389bd0391210480c668[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mquick_sort[m[33m)[m
+[31m|[m[32m\[m  Merge: 7390c19 6b98b31
+[31m|[m [32m|[m Author: torimuk <studingblueberry@gmail.com>
+[31m|[m [32m|[m Date:   Mon Oct 26 09:34:35 2026 +0900
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'main' into quick_sort
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 6b98b316f19ad07ef78b767ead480558b6fffc32[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mrandom_data[m[33m, [m[1;32mmain[m[33m)[m
+[31m|[m [32m|[m Author: torimuk <studingblueberry@gmail.com>
+[31m|[m [32m|[m Date:   Mon Oct 26 09:30:26 2026 +0900
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     랜덤 데이터 생성
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 7390c19dfdecdf9a3b4d9c07dd552debacb115ca[m
+[32m|[m[32m/[m  Author: torimuk <studingblueberry@gmail.com>
+[32m|[m   Date:   Mon Oct 26 09:29:23 2026 +0900
+[32m|[m   
+[32m|[m       quick_sort 구현 중
+[32m|[m       partition 메소드를 구현해야 함
+[32m|[m 
+* [33mcommit 7798fcd6bb3b00d852a16adc82b9f74c1693b67c[m
+  Author: torimuk <studingblueberry@gmail.com>
+  Date:   Mon Oct 26 09:20:57 2026 +0900
+  
+      최초 커밋
